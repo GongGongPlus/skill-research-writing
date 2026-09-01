@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this skill, please cite this repository. / 使用本 Skill 时请引用本仓库。"
+title: "Research Writing and Analysis / 科研写作与分析"
+type: software
+authors:
+  - name: "中北大学机器人协会续晋全"
+repository-code: "https://github.com/GongGongPlus/skill-research-writing"
+license: MIT
+date-released: 2026-09-01
